@@ -1,0 +1,128 @@
+body{
+	font-family: 'Arvo', sans-serif;
+	background-color: b4f7ff;
+	text-align: center;
+}
+p{
+	font-size: 14px;
+	word-spacing: 3px;
+	text-align: justify;
+}
+h1{
+	color: #595888;
+	
+}
+h2{
+	color: #5988;
+	text-shadow: 0 0 1px #FFFFFF;
+
+}
+h3{
+	color: #595888;
+
+}
+h4{
+	color: #595888;
+	display: inline;
+
+}
+h5{
+	color: #8EB9C7;	
+	display: inline;
+
+}
+a{
+	text-decoration: none;
+	color: #595758 ;
+}
+.banner{
+	background-image: url(images/banner.png);
+	padding: 15px;
+	background-size: cover;	
+}
+.button{
+	text-decoration: none;
+	color:white;
+	background-color: #8EB8C4;
+	margin: 11px;
+	padding: 8px;
+	border-radius: 8px;
+
+}
+.logo{
+	max-width: 50px;
+	max-height: 700px;
+	margin-right:20px;
+}
+.logo , h4 {
+        vertical-align: middle;
+        display: inline-block;
+    }
+.fa {
+ 	width: 30px;
+ 	height: 30px;
+ 	text-align: center;
+}
+
+.button:hover{
+	color:#8EB8C4;
+	text-decoration: none;
+	background-color:white;
+}
+#profile-picture{
+	border-radius: 50%;
+	height: 200px;
+}
+.container{
+	width: 700px;
+	margin: 40px auto;
+}
+.card-design{
+	background: white;
+	padding: 30px;
+	margin: 10px;
+	border-radius: 5px;
+	box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+	text-align: left;
+}
+.contact-form{
+	margin-top: 40px;
+}
+.fa-linkedin {
+  background: #007bb5;
+  color: black;
+}
+.elements {
+	display: inline-block; 
+	text-align: center; 
+	position: relative;
+	padding: 16px;
+}
+.assets{
+	max-height: 120px;
+}
+.footer{
+	background-color: #79cad4;
+	background-size: cover;
+	padding: 20px;
+}
+.contact{
+	text-align: right;
+	display: inline;
+	position: relative;
+}
+.social{
+	text-align: right;
+	display: inline;
+	position: relative;
+}
+.footer-block{
+	display: inline-block;
+	position: relative;
+	text-align: left;
+}
+.address{
+	text-align: left; 
+	display: inline;
+	position: relative;
+}
